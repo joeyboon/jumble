@@ -1,2 +1,2 @@
 # jumble
-A pile of random scripts I created that I use often :)
+A pile of random scripts I created for my own convenience :). AGPLv3 applies to all scripts in this GutHub repository.
