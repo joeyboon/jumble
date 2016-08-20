@@ -1,5 +1,6 @@
 #! /bin/sh
 
+# Use this script to output the CPU and drive temperatures of the FreeBSD system. I use it for FreeNAS, since FreeNAS is very limited in this area.
 # Show CPU temperature
 echo
 echo "CPU temperature:"
