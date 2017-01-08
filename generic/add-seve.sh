@@ -80,7 +80,7 @@ chmod 600 /home/$USER/.ssh/authorized_keys
 echo "Adding user account to sudoers file..."
 
 echo "# User privilege specification
-$USER   ALL=(ALL:ALL) ALL" >> /etc/sudoers.d/seve
+$USER   ALL=(ALL:ALL) ALL" >> /etc/sudoers.d/$USER
 echo
 echo
 echo "Done!"
