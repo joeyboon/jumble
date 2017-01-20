@@ -81,7 +81,7 @@ echo
 echo
 
 # Install packages for CentOS 7
-yum -y install nano wget zip unzip
+yum -y install nano wget zip unzip sysstat
 
 sleep 1
 
