@@ -33,7 +33,7 @@ systemctl restart dovecot
 echo -e "\t\t[${green}OK${nc}]"
 
 echo -e -n "Restarting Amavisd..."
-systemctl restart amavis
+systemctl restart amavisd-new
 echo -e "\t\t[${green}OK${nc}]"
 
 echo -e -n "Restarting SpamAssassin..."
