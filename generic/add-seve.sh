@@ -1,11 +1,11 @@
 #!/bin/bash
 
 #############################################################################
-# Version 1.0.0
+# Version 1.0.1
 #############################################################################
 
 #############################################################################
-# Copyright 2016 Sebas Veeke. Released under the AGPLv3 license
+# Copyright 2016-2017 Sebas Veeke. Released under the AGPLv3 license
 #############################################################################
 
 #############################################################################
@@ -22,7 +22,7 @@ nc='\033[0m'                # No color
 
 # USER ACCOUNT VARIABLES
 USER='seve'
-SSH='ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC27sbzqdZEVDh382UDNfENjuUdxcHOJHavWZBg44Rw5jvGtvigIxPS2dQpBwPGLRuduK3VO9ZMM8O4qqHGN/NR+p3XhH3G9drw19hxchiqwbEGdJi6NE9nUU833RnS8TJijLvMBm9JcrXrvkesQGUhr5gs+A4JkWCHrGaOLLZutCCQu4/pYyNnJnT/bf1Oa2CrXo2QazFWffU6daTF1VnRGCxXoXVoUT6+aGO2hye1WLOSMSTirrYWAfZCwlPM54gq71zGRqDh1fEx4L9aqMUvc1KV6/Gnj92QVUhRq/lcfd/jJ/LMzsosLincyp+run+mPDtedjc+OF/xPLDSz4+5'
+SSH='ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKDrBy5FoSjAwhISSPRN72D8jyCZdGuwlD+RZ8pElfEW'
 
 
 #############################################################################
