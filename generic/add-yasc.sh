@@ -21,7 +21,7 @@ grey='\033[1;49;30m'        # Grey
 nc='\033[0m'                # No color
 
 # USER ACCOUNT VARIABLES
-USER='frqu'
+USER='yasc'
 SSH='ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJhnBn+NQM9Xddp2L0SDpJkRmd5sMCD+179L6GSxaPSw'
 
 
