@@ -1,0 +1,13 @@
+# Put these in /home/"$user"/.bash_aliases
+
+# Search in history
+alias hs='history | grep'
+
+# Create and cd in to the folder
+mkcd() { mkdir -p $1; cd $1 }
+
+# Restart apache2
+alias restartweb='systemctl restart apache2'
+
+# Update Debian
+alias debianupdate='sudo apt update && sudo apt -y upgrade
