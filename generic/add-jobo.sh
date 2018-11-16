@@ -22,7 +22,7 @@ nc='\033[0m'                # No color
 
 # USER ACCOUNT VARIABLES
 USER='jobo'
-SSH='ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBrxcuAeQOw1uiCZztIxkOT1OYgynXdQLepPYy5Ur5x4 jobo_ed25519_201811'
+SSH='ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILFgs/dqRiVnOR3ooKHpR4Zb0zKopMTBuG74Xzq61sBv jobo_ed25519_201811'
 
 
 #############################################################################
